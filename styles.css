@@ -1,0 +1,116 @@
+.img1{
+    height: 870px;
+    margin: auto;
+}
+.img-icon{
+    width: 65px;
+}
+.div-bt{
+    height: 36%;
+    width:40%;
+}
+.div-bt1{
+    height: 36%;
+}
+.text-w{
+    color: white;
+}
+.bt-sn{
+    background-color: black;
+    color: white;
+    width: 30%;
+    height: 60px;
+
+}
+.bt-sn1{
+    background-color: black;
+    color: white;
+    width: 15%;
+    height: 60px;
+}
+
+.caro,.btu-gb{
+    background-color: black;
+}
+.div2{
+    background-color: white;
+}
+.div3{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.card,.h4-close,.carousel{
+    margin: auto;
+}
+.text{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: white;
+    color: black;
+    font-size: 50px;
+}
+.p{
+    margin-left: 2%;
+    margin-bottom: 0px;
+}
+.btn-shop{
+    background-color: black;
+    color: white;
+    margin-left: 2%;  
+    font-size: 43px;
+}
+.gmail ,.facebook ,.instagram ,.line{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.btn-mail{
+    background-color: black;
+    color: white;
+    font-size: 65px;
+    border-radius: 20%;
+    width: 150px;
+    height: 150px;
+}
+.a-fb{
+    text-decoration: none;
+    text-align: center; 
+}
+.btn-fb{
+    display: inline-block;
+    font-size: 100px;
+    border-radius: 20%;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    color: white;
+}
+.btn-mail:hover,.btn-shop:hover,.bt-sn1:hover,.bt-sn:hover ,.btn-fb:hover{ 
+    background-color: white;
+    color: black;
+}
+.img-pop{
+    width: 100%;
+}
+.div-bot{
+    background-color: black;
+    color: white;
+   
+}
+.a-bot{
+    text-align: center;
+}
+.img-shop:hover{
+  transform: scale(1.2);
+}
+.hr{
+    border-style:none none dashed none;
+    border-width: 10px;
+    margin: auto;
+    width: 50%;
+}
+.div-hr{
+    margin-top: 70px;
+
+}
